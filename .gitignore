@@ -1,0 +1,9 @@
+*.exe
+.tmp.driveupload/
+$RECYCLE.BIN/
+.venv/
+System Volume Information/
+Thumbs.db
+desktop.ini
+*.m4a
+*.mp3
